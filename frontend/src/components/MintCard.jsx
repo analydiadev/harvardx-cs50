@@ -66,7 +66,7 @@ function MintCard({ account, onRequestConnect }) {
                         address: tokenAddress,
                         symbol: "ZETHT",
                         decimals: 18,
-                        image: "https://i.ibb.co/kxpC5q5/zeth.png",
+                        image: "https://i.ibb.co/9HMw5p7D/zeth.png",
                     },
                 },
             });
