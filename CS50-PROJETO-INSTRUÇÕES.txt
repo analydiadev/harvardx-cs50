@@ -1,0 +1,75 @@
+DESIGN FIGMA
+
+PRIMEIRO BACKEND
+DEPOIS FRONTEND
+
+OQ O PROJETO FAZ?
+
+O projeto é feito para auditores de smart contract organizarem os contratos que já
+foram auditados e não foram auditados.
+
+O QUE OS AUDITORES PODEM FAZER?
+
+- ADICIONAR CONTRATOs
+- PEQUISAR POR CONTRATOS ESPECIFICOS
+- VER A LISTA DE TODOS OS CONTRATOS AUDITADOS NA BLOCKCHAIN
+- ATUALIZAR COMENTÁRIOS MAS MANTER O COMENTÁRIO ANTERIOR VISIVEL
+
+O QUE OS AUDITORES NÃO PODERÃO FAZER?
+
+- REMOVER CONTRATOS
+- FAZER UPDATE DE NOME, REDE, BLOCKCHAIN.
+
+OBS: CONFORME A QUANTIDADE DE CONTRATOS PARA AUDITAR (STATUS: PENDENT) O GRÁFICO AUMENTARÁ O VALOR
+E IRÁ MOSTRAR (TOTAL DE CONTRATOS AUDITADOS X PENDENTES)
+
+COMO FUNCIONARA NO FRONT END.
+
+PAGINA INICIAL SERÁ COMO O COMPOUND
+
+O AUDITOR TERÁ QUE CONNECTAR A METAMASK DELE E ESTAR NA REDE SAPOLIA (COM ETH) 
+
+AO ADIICIONAR A CARTEIRA ELE SERÁ DIRECIONADO AO DASHBOARD
+
+NESSE DASHBOARD IRÁ APARECER A LISTA DE TODOS OS CONTRATOS PARA AUDITAR E AUDITADOS, TERÁ O CAMPO PARA
+PESQUISAR POR "NOME, REDE, ID(GERADO AUTOMÁTICAMENTE AO ADICIONAR), STATUS)
+
+AO LADO DE DASHBOARD ELE TERÁ ESCRITO "ADD CONTRACT", O AUDITOR TERÁ QUE PREENCHER TODOS OS CAMPOS NECESSÁRIOS.
+
+Ao adicionar o contrato, o dashboard é atualizado automaticamente e um pop-up no canto direito da tela 
+confirma que o contrato foi adicionado com sucesso. 
+Da mesma forma, ao atualizar o status e os comentários, um novo pop-up será exibido indicando que a atualização 
+foi realizada com êxito.
+
+A PESSOA PODE FAZER O LOGOUT MAS SEMPRE QUE ELA FAZER LOGIN NOVAMENTE ELA TERÁ ACESSO AOS CONTRATOS ATRAVÉS DA PUBLIC KEY DA CARTEIRA DELA.
+
+ELA TERÁ ACESSO A APENAS OS CONTRATOS QUE ELA ADICIONAR NO BLOCKCHAIN, OU SEJA, COM A PUBLIC KEY DA CARTEIRA DELA.
+
+
+
+TECNOLOGIAS 
+
+
+ZETHToken#ZETHToken - 0xaFCB0B36077000E69F276448DaE7023037694e9E
+
+ZETHTokenSwap#ZETHTokenSwap - 0xca1E1a318aAa15992f503F50d5527169d2b490FB
+REACT =
+TAILWIND =
+open zeplin
+daisyui = layout
+
+Google Fonts tem várias que encaixam:
+
+Orbitron (tech, sci-fi)
+
+Press Start 2P (pixel vintage)
+
+VT323 (terminal old-school)
+
+Tailwind CSS para estrutura, cores e utilitários (gradientes, sombras, espaçamentos)
+
+daisyUI (tema cyberpunk) para componentes prontos com estilo neon/vintage
+
+Fonts estilosas (Orbitron, Press Start 2P, VT323) para a vibe futurista/pixel
+
+CSS customizado para efeitos de brilho/neon, sombras múltiplas e animações tipo flicker/glow

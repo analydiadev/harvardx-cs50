@@ -1,0 +1,8 @@
+/* src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&family=VT323&family=Audiowide&family=Russo+One&family=Share+Tech+Mono&family=Major+Mono+Display&family=Iceberg&family=Monoton&family=Gruppo&family=Zen+Dots&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
