@@ -31,7 +31,7 @@ function Header() {
                 <li><a href="#about" onClick={(e) => smoothScroll(e, "about")} className="hover:text-[#29B6F6] cursor-pointer font-orbitron" > ABOUT </a> </li>
                 <li><a href="#how-to-mint" onClick={(e) => smoothScroll(e, "how-to-mint")} className="hover:text-[#29B6F6] cursor-pointer font-pressstart" > HOW TO MINT </a></li>
                 <li><a href="#faq" onClick={(e) => smoothScroll(e, "faq")} className="hover:text-[#29B6F6] cursor-pointer font-vt323" >FAQ</a></li>
-                <li><a href="/whitepaper.pdf" target="_blank" rel="noopener noreferrer" className="hover:text-[#29B6F6] cursor-pointer font-vt323">WHITEPAPER</a></li>
+                <li><a href="/ZETHTToken.pdf" target="_blank" rel="noopener noreferrer" className="hover:text-[#29B6F6] cursor-pointer font-vt323">WHITEPAPER</a></li>
             </ul>
             <button className="bg-[#29B6F6] text-black px-4 py-2 rounded text-sm font-semibold whitespace-nowrap">
                 MINT $ZETHT
