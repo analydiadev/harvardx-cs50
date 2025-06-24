@@ -22,7 +22,7 @@
 This is the final project for **CS50 - Introduction to Computer Science**, by Harvard University. It’s a full-stack dApp that allows users to **mint a token** on a blockchain **test network** through a modern React-based interface, connected to MetaMask and a Solidity smart contract.
 
 💡 A full walkthrough of this project is available on YouTube!  
-🎥 [Watch the demo video](https://www.youtube.com/watch?v=jLRDuzLZQqc) 
+🎥 [Watch the demo video](https://youtu.be/3QE4XNezZXs) 
 
 ---
 
