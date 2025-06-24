@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 import Header from "./components/Header.jsx";
-import InfoTokens from "./components/InfoTokens.jsx";
 import Card from "./components/Card.jsx";
 import CardAbout from "./components/CardAbout.jsx";
 import InfoCard from "./components/InfoCard.jsx";
@@ -45,11 +44,10 @@ function App() {
       letterSpacing: '-0.05em',
       textTransform: 'uppercase'
     }}>
-      <InfoTokens />
-      <div style={{ backgroundColor: 'rgb(237, 241, 8)' }} className="sticky top-[48px] z-40 bg-base-100">
+
+      <div style={{ backgroundColor: 'rgb(237, 241, 8)' }} className="sticky top-0 z-40 bg-base-100">
         <Header />
       </div>
-
       <Card
         title="$ZETHT"
         description="Born from the neon-lit shadows of the grid, $ZETHT powers the underground economy beyond corpo control."

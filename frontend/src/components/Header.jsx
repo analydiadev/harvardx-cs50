@@ -24,7 +24,7 @@ function Header() {
             <img
                 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFiNDF4d3l1eHo4aG1udmR5cmZtMHJ1ZGthbDJ1YXQyZHMyam0ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0bF32A7QYSUBxMNibo/giphy.gif"
                 alt="Logo"
-                className="h-10 w-25 cursor-pointer"
+                className="h-15 w-25 cursor-pointer"
                 onClick={scrollToTop}
             />
             <ul className="flex flex-wrap justify-center gap-4 text-xs font-bold uppercase text-center flex-1">
