@@ -79,7 +79,7 @@ Go to [https://metamask.io](https://metamask.io), install the extension, and cre
 
 ### 2️⃣ Add a Testnet (Sepolia)
 
-![alt text](image-9.png)![alt text](image-10.png)
+![Image](https://github.com/user-attachments/assets/fab7261a-8d6d-41d7-a06b-9cb5a324dbb7)![Image](https://github.com/user-attachments/assets/ba85e911-e798-47dc-b404-73a33a9b2d57)
 ```text
 Click on the Mainnet, then click on "Show Test Networks" and select Sepolia.
 ```
@@ -90,8 +90,7 @@ Use a faucet like:
 
 ``Copy the public address of your wallet, paste it into a faucet and then click "Send Me ETH".``
 
-![alt text](image-12.png)
-![alt text](image-13.png)
+![Image](https://github.com/user-attachments/assets/6e3bfa57-773e-41ce-8bce-c7670418c5ed) ![Image](https://github.com/user-attachments/assets/1c9a6408-8231-428f-8253-9e4fbb74f6b0)
 
 ### 4️⃣ Connect Wallet  
 Click “Connect Wallet” and approve via MetaMask.
@@ -120,8 +119,9 @@ frontend/src/            → React frontend
 ---
 
 ## 📷 Screenshots 
-![alt text](image-1.png) ![alt text](image-4.png)
-![alt text](image-2.png)
+![Image](https://github.com/user-attachments/assets/afb5b0ed-65d2-41a6-818f-8007f19cc4d1)
+![Image](https://github.com/user-attachments/assets/bbe2d94e-66ff-4560-80d1-efd51a5c1e28)
+![Image](https://github.com/user-attachments/assets/d88d587b-6db3-4eef-ae2e-614283dc83de)
 
 ---
 
